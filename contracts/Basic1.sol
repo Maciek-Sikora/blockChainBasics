@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 
 pragma solidity ^0.6.0;
-// ^ - karot (0.6.x)
+// ^ - karot 0.6.0 lub wyżej
 
 
 contract SimpleStorage {
